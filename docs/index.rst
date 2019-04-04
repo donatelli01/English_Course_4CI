@@ -14,6 +14,13 @@ Piani_di_Apprendimento:
 ***********************
 
 
+.. toctree:: 
+    :maxdepth: 2
+    :hidden: 
+
+    Piani_di_Apprendimento
+
+
 .. bottom of content
 
 
