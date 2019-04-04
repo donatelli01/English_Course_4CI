@@ -14,7 +14,6 @@ Piani_di_Apprendimento/Piani_di_Apprendimento
     :maxdepth: 2
     :caption: indice
 
-    Piani_di_Apprendimento
 
 
 .. bottom of content
