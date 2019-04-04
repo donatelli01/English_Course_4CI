@@ -1,10 +1,3 @@
-
-..  Hint:: 
-
-    (This is the Piani_di_Apprendimento)
-
-.. _h74737e311664662e7425a5663686d:
-
 Piani di apprendimento
 ######################
 
