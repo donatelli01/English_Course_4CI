@@ -8,5 +8,6 @@ Qui troverete le guide con i passaggi che illustrano il lavoro da noi svolto:
 
 .. toctree::
 :caption: Indice
+:maxdepth: 3
 Piani_di_apprendimento
 static
